@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "com.lakis.iptvhero",
-    "versionCode":  9,
-    "versionName":  "0.2.0-beta.4",
+    "versionCode":  10,
+    "versionName":  "0.2.0-beta.5",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.4/IPTV-Hero-0.2.0-beta.4.apk",
+    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.5/IPTV-Hero-0.2.0-beta.5.apk",
     "apkBytes":  18648343,
-    "apkSha256":  "7514fb18abf6f2a7e8850fb7f7db9ea914b2edc304482f0bcea02afeee1f57d8",
-    "notes":  "Movies and Series open much faster. New: in-app updates (Settings \u003e About). Each beta now works for 14 days; the app offers the next version automatically.",
-    "publishedAt":  "2026-10-16T16:49:13.0002688+00:00"
+    "apkSha256":  "988cd863582e2ba2d6c0c7b46cc072e3ee64864603ee6462ea6f7f9d567437f5",
+    "notes":  "Update test release. Same features as 0.2.0-beta.4 with a new 14-day period.",
+    "publishedAt":  "2026-10-16T17:00:06.1342425+00:00"
 }
