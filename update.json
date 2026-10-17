@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "com.lakis.iptvhero",
-    "versionCode":  14,
-    "versionName":  "0.2.0-beta.9",
+    "versionCode":  15,
+    "versionName":  "0.2.0-beta.10",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.9/IPTV-Hero-0.2.0-beta.9.apk",
-    "apkBytes":  18664731,
-    "apkSha256":  "15ea3bf996960c7202c1c0710f777f36b933e039b0cbacea4643f964eddf9b70",
-    "notes":  "Screens now keep a safe margin from the TV edges, so menus are no longer cut off on TVs that crop the picture (common with Mi boxes and other HDMI boxes). Update steps now move focus to the permission button automatically.",
-    "publishedAt":  "2026-10-17T06:45:48.4768807+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.10/IPTV-Hero-0.2.0-beta.10.apk",
+    "apkBytes":  18698469,
+    "apkSha256":  "2f5e4eb7c87d2d19e0360ee1de6acd91175249586d24212d5e27fb049ed3bbd5",
+    "notes":  "• New Graphite look + Plum, Midnight, OLED themes\n• Clearer focus and smoother remote navigation\n• Fixed freezes on 4K live channel previews\n• Trending \u0026 recommendations without a TMDB account\n• New silver HERO logo\n• Home and category layout fixes",
+    "publishedAt":  "2026-10-17T10:51:23.9629620+00:00"
 }
