@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "com.lakis.iptvhero",
-    "versionCode":  19,
-    "versionName":  "0.2.0-beta.14",
+    "versionCode":  21,
+    "versionName":  "0.2.0-beta.16",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.14/IPTV-Hero-0.2.0-beta.14.apk",
-    "apkBytes":  18714853,
-    "apkSha256":  "ccc041f54c53505d93d2ea0a94222a4fc5455f2f1d3c37c273673823cf24c285",
-    "notes":  "• New Forest and Stone \u0026 olive themes (Settings › Appearance)\n• Guide time offset in Settings › Catalog fixes a guide that is hours off\n• Live: a frozen picture after leaving full screen now recovers\n• Live: OK opens Channels / guide instead of pausing\n• Clearer buttons in Settings, details and the live control bar",
-    "publishedAt":  "2026-10-17T14:58:16.0281662+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.16/IPTV-Hero-0.2.0-beta.16.apk",
+    "apkBytes":  18747625,
+    "apkSha256":  "39dac87609208e31ec86b02c7cc8557a37f061705ab03984ac28219c33811fa2",
+    "notes":  "• Sort Movies and Series: newest, rating, year, A–Z or Z–A\n• Series can sort by recently updated (new episodes)\n• Favorites A–Z is now alphabetical\n• Each screen remembers its sort",
+    "publishedAt":  "2026-10-17T20:43:07.8985971+00:00"
 }
