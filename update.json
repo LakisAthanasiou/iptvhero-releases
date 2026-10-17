@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "com.lakis.iptvhero",
-    "versionCode":  10,
-    "versionName":  "0.2.0-beta.5",
+    "versionCode":  14,
+    "versionName":  "0.2.0-beta.9",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.5/IPTV-Hero-0.2.0-beta.5.apk",
-    "apkBytes":  18648343,
-    "apkSha256":  "988cd863582e2ba2d6c0c7b46cc072e3ee64864603ee6462ea6f7f9d567437f5",
-    "notes":  "Update test release. Same features as 0.2.0-beta.4 with a new 14-day period.",
-    "publishedAt":  "2026-10-16T17:00:06.1342425+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.9/IPTV-Hero-0.2.0-beta.9.apk",
+    "apkBytes":  18664731,
+    "apkSha256":  "15ea3bf996960c7202c1c0710f777f36b933e039b0cbacea4643f964eddf9b70",
+    "notes":  "Screens now keep a safe margin from the TV edges, so menus are no longer cut off on TVs that crop the picture (common with Mi boxes and other HDMI boxes). Update steps now move focus to the permission button automatically.",
+    "publishedAt":  "2026-10-17T06:45:48.4768807+00:00"
 }
