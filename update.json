@@ -1,12 +1,12 @@
 {
     "formatVersion":  1,
     "applicationId":  "com.lakis.iptvhero",
-    "versionCode":  25,
-    "versionName":  "0.2.0-beta.20",
+    "versionCode":  28,
+    "versionName":  "0.2.0-beta.23",
     "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.20/IPTV-Hero-0.2.0-beta.20.apk",
-    "apkBytes":  18829545,
-    "apkSha256":  "63be786a67627e05073bdda13f91f2b1def0da9ed83ff91e7b4b8928a6a0838a",
-    "notes":  "- New: Playing Now For You - what\u0027s on now that matches your interests\n- Pick topics and your own keywords (any language) in Settings \u003e Playing Now\n- Playing Now row in Live TV\n- Five new themes: Dusk, Sage Mist, Sand, Harbor and Off-white",
-    "publishedAt":  "2026-10-18T12:32:52.6741069+00:00"
+    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.23/IPTV-Hero-0.2.0-beta.23.apk",
+    "apkBytes":  18829541,
+    "apkSha256":  "a0158a63ad645dbbde6570f1e791453002529b0e56dcfb83378e85ebf80bdc77",
+    "notes":  "- Playing Now For You: compact cards - programme first, small channel logo, time and topic\n- Pick topics and your own keywords in Settings \u003e Playing Now\n- Five new themes: Dusk, Sage Mist, Sand, Harbor and Off-white",
+    "publishedAt":  "2026-10-18T15:41:42.7995350+00:00"
 }
