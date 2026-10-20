@@ -1,12 +1,12 @@
 {
-    "formatVersion":  1,
-    "applicationId":  "com.lakis.iptvhero",
-    "versionCode":  28,
-    "versionName":  "0.2.0-beta.23",
-    "minSdk":  26,
-    "apkUrl":  "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.23/IPTV-Hero-0.2.0-beta.23.apk",
-    "apkBytes":  18829541,
-    "apkSha256":  "a0158a63ad645dbbde6570f1e791453002529b0e56dcfb83378e85ebf80bdc77",
-    "notes":  "- Playing Now For You: compact cards - programme first, small channel logo, time and topic\n- Pick topics and your own keywords in Settings \u003e Playing Now\n- Five new themes: Dusk, Sage Mist, Sand, Harbor and Off-white",
-    "publishedAt":  "2026-10-18T15:41:42.7995350+00:00"
+  "formatVersion": 1,
+  "applicationId": "com.lakis.iptvhero",
+  "versionCode": 31,
+  "versionName": "0.2.0-beta.26",
+  "minSdk": 26,
+  "apkUrl": "https://github.com/LakisAthanasiou/iptvhero-releases/releases/download/v0.2.0-beta.26/IPTV-Hero-0.2.0-beta.26.apk",
+  "apkBytes": 18911461,
+  "apkSha256": "b7faac282f91c8ebe8a1bfbb4cb5569b69e0ec97963bfd80e723c7a9b08b901f",
+  "notes": "- Watched/unwatched controls for movies, series, seasons and episodes, with library filters and Hold OK menus.\n- Continue Watching: mark watched or remove a card.\n- Choose Compact, Standard or Large in Settings > Appearance, with immediate preview and a saved preference for this device.\n- Smoother Live TV preview/fullscreen transitions.",
+  "publishedAt": "2026-10-20T20:31:17.933458+00:00"
 }
